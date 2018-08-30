@@ -1,4 +1,4 @@
-![alt text](https://bbgithub.dev.bloomberg.com/mjoyce4/jira-stuff/blob/master/files/JIRA.PNG "icon")
+![alt text](https://github.com/mjoyce6500/jira-stuff/blob/master/files/JIRA.PNG "icon")
 ==========
 
 
